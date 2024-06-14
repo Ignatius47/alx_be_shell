@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 #!/bin/bash
 touch hello
 
+=======
+#!/bin/bash
+touch hello
+>>>>>>> 0c6784a7f406b0ee49f7b05d35af6d314cb8db28
